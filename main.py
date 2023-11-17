@@ -562,6 +562,6 @@ def show_error(message):
 #
 
 if __name__ == "__main__":
-    my_app = MyApp()
+    chat_app = MyApp()
 
-    my_app.run()
+    chat_app.run()
